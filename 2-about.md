@@ -79,7 +79,6 @@ menu: about
 
 <div class="container center text-center">
 <img src="/assets/img/molecules2.jpg" width="100%">
-      <h2>artistic  </h2>
 
       <h3>Not just a</h3>
       <h2>perfumery</h2>
