@@ -1,18 +1,18 @@
 ---
 layout: default
-title: About Dor
-permalink: /about
-menu: about
+title: Workshops
+permalink: /workshops
+menu: workshops
 
 ---
 
 <div class="container">
 
   <div class="row">
-      <h1>dor</h1>
+      <h1>Coming soon</h1>
 
       <h3>
-      is a Romanian word that is untranslatable.<br/>It describes the intensely complex feelings of missing something, someone, or better yet yearning for someone and something past, present or future
+      Let your nose go wild, indulge into a new range of smells, both natural and syntethic and learn the basics of modern perfumery. Join us on a 3 hour journey into the art of olfaction, train your nose and create your own 15 ml perfume. Limited spaces available soon in our Hackney Week studio. 
       </h3>
 
       <p>&nbsp;</p>
@@ -24,7 +24,7 @@ menu: about
 <img src="/assets/img/molecules1.jpg" width="100%">
 </div>
 
-<div>
+<!-- <div>
    <div class="row text-center">
       <p>&nbsp;</p>
 
@@ -91,6 +91,6 @@ menu: about
 <img src="/assets/img/bubble-gold.JPG" width="100%">
 
       <p>&nbsp;</p>
-</div>
+</div> -->
 
 
