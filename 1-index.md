@@ -11,10 +11,10 @@ menu: home
 
       <h1 class="huge text-center">dor</h1>
 
-      <h3 class="text-center">Open up a whole new range of <em>experiences</em> in everyday life through the <em>power of olfaction</em>.</h3>
+      <h3 class="text-center">we exist to open up a whole new range of <em>experiences</em> in everyday life through the <em>power of olfaction</em>.</h3>
 
       <p class="text-justify">
-      **dor** is a Romanian word that is untranslatable.<br/>It describes the intensely complex feelings of missing something, someone, or better yet yearning for someone and something past, present or future
+      <em> dor </em> is a Romanian word that is untranslatable.<br/>It describes the intensely complex feelings of missing something, someone, or better yet yearning for someone and something past, present or future
       </p>
 
     
