@@ -38,9 +38,12 @@ menu: home
   </div> -->
 
 
-  <div class="container" style="height: 50%;">
+
+
+  <div class="container" style="max-height: 50%; width: 100%;">
     <img src="/assets/img/rainbow.jpg" width="100%">
   </div>
+  
 <!-- <img src="/assets/img/rainbow.jpg" width="100%"> -->
 
 
