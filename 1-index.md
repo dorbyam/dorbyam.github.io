@@ -23,7 +23,7 @@ menu: home
       &nbsp;
       </p>
   </div>
-    </div>
+  
 
 
   <!-- <div class="row text-center">
