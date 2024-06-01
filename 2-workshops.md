@@ -9,19 +9,19 @@ menu: workshops
 <div class="container">
 
   <div class="row">
-      <h1>Coming soon</h1>
+      <h1>Build your own perfume - coming soon</h1>
 
       <h3>
-      Let your nose go wild, indulge into a new range of smells, both natural and syntethic and learn the basics of modern perfumery. Join us on a 3 hour journey into the art of olfaction, train your nose and create your own 15 ml perfume. Limited spaces available soon in our Hackney Week studio. 
+      Let your nose go wild, indulge into a new range of smells, both natural and syntethic and learn the basics of modern perfumery. Join us on a 3 hour journey into the art of olfaction, train your nose and create your own 15 ml perfume. Limited spaces available soon in our Hackney Wick studio. 
       </h3>
 
       <p>&nbsp;</p>
-   </div>
+       </div>
 
 </div>
 
 <div class="container">
-<img src="/assets/img/mbottlerose.png" width="100%">
+<img src="/assets/img/bottlerose.png" width="100%">
 </div>
 
 <!-- <div>
