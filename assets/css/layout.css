@@ -163,6 +163,7 @@ body {
 /* Images */
 img {
   max-width: 100%;
+  max-height: 50%;
   margin: 0;
 }
 

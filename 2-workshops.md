@@ -21,7 +21,7 @@ menu: workshops
 </div>
 
 <div class="container">
-<img src="/assets/img/bottlerose.png" width="100%" height="50%">
+<img src="/assets/img/bottlerose.png">
 </div>
 
 <!-- <div>
