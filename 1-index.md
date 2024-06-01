@@ -23,6 +23,7 @@ menu: home
       &nbsp;
       </p>
   </div>
+    </div>
 
 
   <!-- <div class="row text-center">
@@ -42,6 +43,6 @@ menu: home
   </div>
 <!-- <img src="/assets/img/rainbow.jpg" width="100%"> -->
 
-</div>
+
 
 
