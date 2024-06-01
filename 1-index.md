@@ -37,7 +37,7 @@ menu: home
   </div> -->
 
 
-<img src="/assets/img/rainbow.jpg" width="100%">
+<img src="/assets/img/rainbow.jpg" width="100%" height="70%">
 
 </div>
 
