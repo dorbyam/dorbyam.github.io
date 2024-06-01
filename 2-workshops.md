@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshops
+title: workshops
 permalink: /workshops
 menu: workshops
 
@@ -21,7 +21,7 @@ menu: workshops
 </div>
 
 <div class="container">
-<img src="/assets/img/bottlerose.png" width="100%">
+<img src="/assets/img/bottlerose.png" width="100%", height="50%">
 </div>
 
 <!-- <div>
