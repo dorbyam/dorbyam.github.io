@@ -13,7 +13,7 @@ menu: home
 
       <h3 class="text-center">We exist to open up a whole new range of <em>experiences</em> in everyday life through the <em>power of olfaction</em>.</h3>
 
-      <p class="text-justify">
+      <p>
       <strong><em>Dor</em> </strong> is a Romanian word that is untranslatable. It describes the intensely complex feelings of missing  something, someone, or better yet yearning for someone and something past, present or future
       </p>
 
