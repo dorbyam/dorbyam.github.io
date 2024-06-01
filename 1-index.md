@@ -37,7 +37,10 @@ menu: home
   </div> -->
 
 
-<img src="/assets/img/rainbow.jpg" width="100%" height="70%">
+  <div class="container" style="height: 50%;">
+    <img src="/assets/img/rainbow.jpg" width="100%">
+  </div>
+<!-- <img src="/assets/img/rainbow.jpg" width="100%"> -->
 
 </div>
 
