@@ -92,6 +92,17 @@ header a, footer a {
 header a:hover, footer a:hover {
   text-decoration: underline;
 }
+footer .social-media-list li a {
+  font-family: 'Muli';
+  font-size: 15px;
+  color: var(--color-dark);
+}
+footer .social-media-list li a:hover {
+  font-family: 'Muli';
+  font-size: 15px;
+  text-decoration: none;
+  color: var(--color-purple);
+}
 footer p {
   font-size: 15px;
 }
@@ -196,6 +207,10 @@ header h1, header h1 a, header h1 a:hover {
   padding: 0;
   font-size: 30px;
   text-decoration: none;
+}
+
+footer {
+  padding-top: 80px;
 }
 
 footer img {

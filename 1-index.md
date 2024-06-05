@@ -17,13 +17,10 @@ menu: home
       <strong><em>dor</em></strong> is a Romanian word that is untranslatable. It describes the intensely complex feelings of missing  something or someone. Better yet, <strong><em>dor</em></strong> distills the emotion of yearning for someone and something past, present or future.
       </p>
 
-    
-
       <p class="text-center">
       &nbsp;
       </p>
   </div>
-  
 
 
   <!-- <div class="row text-center">
@@ -36,16 +33,12 @@ menu: home
     &nbsp;
     </p>
   </div> -->
+</div>
 
 
-
-
-  <div class="container" style="max-height: 50%; width: 100%;">
-    <img src="/assets/img/rainbow.jpg" width="100%">
-  </div>
-
-<!-- <img src="/assets/img/rainbow.jpg" width="100%"> -->
-
-
+<div class="container">
+  <img src="/assets/img/rainbow-lg.jpg" width="100%" class="hide-md hide-sm hide-xs">
+  <img src="/assets/img/rainbow.jpg" width="100%" class="hide-lg hide-xl">
+</div>
 
 
