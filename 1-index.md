@@ -9,7 +9,7 @@ menu: home
 <div class="container">
   <div class="row">
 
-      <h1 class="huge text-center">dor</h1>
+      <h1 class="huge text-center">dor olfactory</h1>
 
       <h3 class="text-center">We exist to open up a whole new range of <em>experiences</em> in everyday life through the <em>power of olfaction</em>.</h3>
 
