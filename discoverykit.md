@@ -25,9 +25,7 @@ menu:
   <div class="row hide-xs hide-sm hide-md">
     <img src="/assets/img/discoverykit.png"/>
   </div>
-  <img class="hide-lg hide-xl"
-    src="/assets/img/discoverykit.png
-  />
+
 </div>
 
 
