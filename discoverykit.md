@@ -21,10 +21,6 @@ menu:
 
 </div>
 
-<div class="container">
-  <div class="row hide-xs hide-sm hide-md">
-    <img src="/assets/img/discoverykit.png"/>
-  </div>
 
 <section class="image-text-container">
   <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
@@ -32,6 +28,11 @@ menu:
 </section>
 
 <section class="image-text-container flex-reverse">
+  <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
+  <p>Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum</p>
+</section>
+
+<section class="image-text-container">
   <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
   <p>Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum</p>
 </section>
