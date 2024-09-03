@@ -26,6 +26,11 @@ menu:
     <img src="/assets/img/discoverykit.png"/>
   </div>
 
+<section class="image-text-container">
+  <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
+  <p>Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum</p>
+</section>
+
 </div>
 
 
