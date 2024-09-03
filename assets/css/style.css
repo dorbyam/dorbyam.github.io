@@ -254,8 +254,14 @@ input[type="text"], input[type="email"] {
 }
 
 .image-text-container {
-  display: flex; /* Enable flexbox */
+  
   align-items: center; /* Align content vertically */
+  width: 100%;
+  max-width: 900px;
+  padding: 15px 10px 5px 10px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  display: table;
 }
 
 .round-image {
