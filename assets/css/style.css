@@ -28,9 +28,21 @@ h1, h1 a {
   letter-spacing: 2px;
   text-shadow: 0 0 18px #F9E0DC;
 }
-h1.huge {
-  font-size: 144px;
-  line-height: 140px;
+
+.title {
+  font-size: 75px;
+  line-height: 70px;
+}
+
+.subtitle {
+  font-size: 23px;
+}
+
+@media screen and (min-width: 992px) {
+  .title {
+    font-size: 144px;
+    line-height: 140px;
+  }
 }
 h2, h2 a {
   font-family: 'Grand Slang';

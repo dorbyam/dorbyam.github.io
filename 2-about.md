@@ -4,8 +4,8 @@ title: about
 ---
 
 <div class="container text-center">
-  <h1 class="huge">dor</h1>
-  <h2><em>dor</em> is a Romanian word that is untranslatable. It describes the intensely complex feelings of missing something or someone. Better yet, <em>dor</em> distills the emotion of yearning for someone and something past, present or future.</h2>
+  <h1 class="title">dor</h1>
+  <h2 class="subtitle"><em>dor</em> is a Romanian word that is untranslatable. It describes the intensely complex feelings of missing something or someone. Better yet, <em>dor</em> distills the emotion of yearning for someone and something past, present or future.</h2>
 
   <p>&nbsp;</p>
 
