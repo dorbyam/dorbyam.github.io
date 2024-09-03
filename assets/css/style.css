@@ -308,13 +308,9 @@ input[type="text"], input[type="email"] {
 @media screen and (min-width: 992px) 
 {
   .image-text-container {
-
-flex-direction: row;
-
+    flex-direction: row;
   }
-.flex-reverse {
-
-flex-direction: row;
-
-}
+  .flex-reverse {
+    flex-direction: row; 
+  }
 }
