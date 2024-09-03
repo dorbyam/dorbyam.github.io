@@ -13,8 +13,10 @@ menu:
 
       <h3 class="subtitle text-center">
       If you've made it to this page, then you're one of the selected few people who've unlocked exclusive access to our pre-release discovery kit. 
-      Our hand poured perfumes are exclusively available to pre-order. Place your order directly on Instagram by dm-ing @dor_olfactory
+      Our hand poured perfumes are exclusively available to pre-order.
       </h3>
+
+      <a href="https://dor-olfactory.sumupstore.com" class="button">Shop now</a>
 
       <p>&nbsp;</p>
    </div>
