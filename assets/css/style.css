@@ -274,3 +274,9 @@ input[type="text"], input[type="email"] {
 .image-text-container p {
   flex: 1; /* Text takes remaining space */
 }
+
+
+.flex-reverse {
+  flex-direction: row-reverse; 
+  
+}
