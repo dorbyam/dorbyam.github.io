@@ -252,3 +252,19 @@ input[type="text"], input[type="email"] {
   border: 0;
   padding: 5px 20px;
 }
+
+.image-text-container {
+  display: flex; /* Enable flexbox */
+  align-items: center; /* Align content vertically */
+}
+
+.round-image {
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  border-radius: 50%; /* Make the image round */
+  margin-right: 10px; /* Add space between image and text */
+}
+
+.image-text-container p {
+  flex: 1; /* Text takes remaining space */
+}
