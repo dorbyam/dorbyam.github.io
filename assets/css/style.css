@@ -48,7 +48,7 @@ h1, h1 a {
     line-height: 140px;
   }
 
-  
+
   .subtitle{
     font-size: 40px;
   }
@@ -285,6 +285,7 @@ input[type="text"], input[type="email"] {
   box-sizing: border-box;
   margin: 0 auto;
   display: flex;
+  flex-direction: column;
 }
 
 .round-image {
@@ -302,4 +303,18 @@ input[type="text"], input[type="email"] {
 .flex-reverse {
   flex-direction: row-reverse; 
   
+}
+
+@media screen and (min-width: 992px) 
+{
+  .image-text-container {
+
+flex-direction: row;
+
+  }
+.flex-reverse {
+
+flex-direction: row;
+
+}
 }
