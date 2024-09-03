@@ -15,7 +15,7 @@ menu: workshops
       Let your nose go wild, indulge into a new range of smells, both natural and syntethic and learn the basics of modern perfumery. Join us on a 3 hour journey into the art of olfaction, train your nose and create your own 15 ml perfume. Limited spaces available soon in our Bermondsey studio at The Biscuit Factory. 
       </p>
 
-      <p>&nbsp;</p>
+  
    </div>
 
 </div>
