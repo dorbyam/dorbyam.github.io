@@ -37,12 +37,27 @@ h1, h1 a {
   font-size: 23px;
 }
 
+.body {
+  font-size:16px;
+
+}
+
 @media screen and (min-width: 992px) {
   .title {
     font-size: 144px;
     line-height: 140px;
   }
+
+  .subtitle{
+    font-size: 70px;
+  }
+
+  .body{
+    font-size: 18px;
+  }
 }
+
+
 h2, h2 a {
   font-family: 'Grand Slang';
   font-style: normal;

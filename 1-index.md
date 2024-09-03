@@ -13,7 +13,7 @@ menu: home
 
       <h3 class="subtitle text-center">We exist to open up a whole new range of <em>experiences</em> in everyday life through the <em>power of olfaction</em>.</h3>
 
-      <p>
+      <p class="body">
       <strong><em>dor</em></strong> is a Romanian word that is untranslatable. It describes the intensely complex feelings of missing  something or someone. Better yet, <strong><em>dor</em></strong> distills the emotion of yearning for someone and something past, present or future.
       </p>
 
