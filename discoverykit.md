@@ -30,12 +30,12 @@ menu:
 </section>
 
 <section class="image-text-container flex-reverse">
-  <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
+  <img src="assets/img/datewithashaman.jpg" alt="Date with a shaman" class="round-image">
   <p>Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum</p>
 </section>
 
 <section class="image-text-container">
-  <img src="assets/img/figuremeout.jpg" alt="Figure me out styling" class="round-image">
+  <img src="assets/img/legnosacro.jpg" alt="Legno sacro" class="round-image">
   <p>Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum</p>
 </section>
 
