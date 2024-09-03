@@ -261,7 +261,7 @@ input[type="text"], input[type="email"] {
   padding: 15px 10px 5px 10px;
   box-sizing: border-box;
   margin: 0 auto;
-  display: table;
+  display: flex;
 }
 
 .round-image {
