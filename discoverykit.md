@@ -16,7 +16,7 @@ menu:
       Our hand poured perfumes are exclusively available to pre-order.
       </h3>
 
-      <a href="https://dor-olfactory.sumupstore.com" class="button" target="_blank" style="text-align: center;>Shop now</a>
+      <a href="https://dor-olfactory.sumupstore.com" class="button" target="_blank" style="text-align: center;">Shop now</a>
 
       <p>&nbsp;</p>
    </div>
