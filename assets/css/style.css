@@ -292,7 +292,7 @@ input[type="text"], input[type="email"] {
   width: 300px; /* Adjust width as needed */
   height: 300px; /* Adjust height as needed */
   border-radius: 50%; /* Make the image round */
-  margin-right: 10px; /* Add space between image and text */
+  margin-right: 30px; /* Add space between image and text */
 }
 
 .image-text-container p {
