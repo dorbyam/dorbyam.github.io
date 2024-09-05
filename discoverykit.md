@@ -31,7 +31,7 @@ menu:
 
 <section class="image-text-container flex-reverse">
   <img src="assets/img/datewithashaman.jpg" alt="Date with a shaman" class="round-image">
-  <p> <b> Date with a Shaman </b> - A sensory journey into the heart of the unknown. This fragrance, a mystical elixir, opens with a vibrant burst of pink pepper, igniting curiosity and anticipation. As the scent unfolds, a delicate tapestry of rose and ylang-ylang emerges, weaving a spellbinding aroma that is both alluring and enigmatic. The base notes, a rich blend of amber, tonka bean, and sandalwood, provide a grounding warmth, anchoring the composition in a sensual embrace. A fragrance that invites you to explore the depths of your imagination and discover the hidden magic within./p>
+  <p> <b> Date with a Shaman </b> - A sensory journey into the heart of the unknown. This fragrance, a mystical elixir, opens with a vibrant burst of pink pepper, igniting curiosity and anticipation. As the scent unfolds, a delicate tapestry of rose and ylang-ylang emerges, weaving a spellbinding aroma that is both alluring and enigmatic. The base notes, a rich blend of amber, tonka bean, and sandalwood, provide a grounding warmth, anchoring the composition in a sensual embrace. A fragrance that invites you to explore the depths of your imagination and discover the hidden magic within.</p>
 </section>
 
 <section class="image-text-container">
