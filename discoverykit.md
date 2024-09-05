@@ -36,7 +36,7 @@ menu:
 
 <section class="image-text-container">
   <img src="assets/img/legnosacro.jpg" alt="Legno sacro" class="round-image">
-  <p> <b> Legno sacro </b> - A fragrance that transcends the ordinary, Legno Sacro is a sacred pilgrimage through the depths of the soul. Inspired by the most alluring and captivating cathedrals, this scent is a celebration of sanctity and divinity. The deep, resonating notes of palo santo, tobacco, and leather evoke a sense of reverence and mystery, while the fresh layer of clary sage provides a balancing element, adding a touch of clarity and serenity. A fragrance that invites you to explore the sacred within and connect with a higher power, a symphony of scent that resonates with the divine.</p>
+  <p> <b> Legno Sacro </b> - A fragrance that transcends the ordinary, Legno Sacro is a sacred pilgrimage through the depths of the soul. Inspired by the most alluring and captivating cathedrals, this scent is a celebration of sanctity and divinity. The deep, resonating notes of palo santo, tobacco, and leather evoke a sense of reverence and mystery, while the fresh layer of clary sage provides a balancing element, adding a touch of clarity and serenity. A fragrance that invites you to explore the sacred within and connect with a higher power, a symphony of scent that resonates with the divine.</p>
 </section>
 
 
