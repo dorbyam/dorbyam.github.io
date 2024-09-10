@@ -294,6 +294,7 @@ input[type="text"], input[type="email"] {
   border-radius: 50%; /* Make the image round */
   margin-right: 30px; /* Add space between image and text */
   margin-left: 30px;
+  object-fit: cover;
 }
 
 .image-text-container p {
