@@ -16,6 +16,8 @@ menu:
       Our hand poured perfumes are exclusively available to pre-order.
       </h3>
 
+      <h2 class="subtitle"> A symphony of scents, each composition begins with a dramatic crescendo, only to soften and evolve into a harmonious melody of notes, revealing its true essence over time.</h2>
+
       <a href="https://dor-olfactory.sumupstore.com" class="button" target="_blank" style="text-align: center;">Shop now</a>
 
       <p>&nbsp;</p>
