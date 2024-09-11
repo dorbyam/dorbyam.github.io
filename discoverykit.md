@@ -13,8 +13,8 @@ menu:
 
       <h3 class="subtitle text-center">
       If you've made it to this page, then you're one of the selected few people who've unlocked exclusive access to our pre-release discovery kit. A symphony of scents, each composition begins with a dramatic crescendo, only to soften and evolve into a harmonious melody of notes, revealing its true essence over time.
-      
-      Our hand poured perfumes are exclusively available to pre-order.
+
+      <br> Our hand poured perfumes are exclusively available to pre-order.
       </h3>
 
       <a href="https://dor-olfactory.sumupstore.com" class="button" target="_blank" style="text-align: center;">Shop now</a>
